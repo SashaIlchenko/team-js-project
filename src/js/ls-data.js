@@ -1,6 +1,6 @@
 // localStorage keys + synchronous get/set
 
-// const keys for localStorage
+
 export const lskeys = {
   CRT_USER: 'current-user',
   TMP_QUEUE: 'temp-queue',
